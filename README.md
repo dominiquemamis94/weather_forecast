@@ -1,4 +1,4 @@
-# Weather Forecast
+# Weather Forecast Demo App
 A simple web app that requires github login to access weather forecast by city input.
 The backend is written in Express and the frontend is written in React. 
 This app is integrated with Github and Auth0 for the authentication and OpenWeatherMap.org for the weather forecast data.
